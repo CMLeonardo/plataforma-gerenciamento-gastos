@@ -1,2 +1,4 @@
 #pytz
 #pandas
+#pillow
+#matplotlib
